@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deep Neural Network for YouTube Recommendation 论文笔记"
-date: 2018-08-18
+date: 2019-08-18
 excerpt: "youtube 基于dnn的推荐系统."
 tags: [recommendation, dnn]
 comments: true
