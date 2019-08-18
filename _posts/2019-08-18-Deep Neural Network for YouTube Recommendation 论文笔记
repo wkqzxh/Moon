@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Deep Neural Network for YouTube Recommendation 论文笔记"
+date: 2018-08-18
+excerpt: "youtube 基于dnn的推荐系统."
+tags: [recommendation, dnn]
+comments: true
+---
+
+这篇论文 Deep Neural Networks for YouTube Recommendations 是google的YouTube团队在推荐系统上DNN方面的尝试，发表在16年9月的RecSys会议。虽然国内必须翻墙才能登录YouTube，但想必大家都知道这个网站。基本上算是世界范围内视频领域的最大的网站了，坐拥10亿量级的用户，网站内的视频推荐自然是一个非常重要的功能。本文就focus在YouTube视频推荐的DNN算法，文中不但详细介绍了Youtube推荐算法和架构细节，还给了不少practical lessons and insights，很值得精读一番。下图便是YouTube APP视频推荐的一个例子。
