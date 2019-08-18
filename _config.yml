@@ -1,7 +1,7 @@
 # Site
 title:              在路上
-bio:                '西土城码农，从明光村搬砖到后厂村'
-description:        "Record Beautiful Life"
+bio:                '西土城低级码农，从明光村迁徙到后厂村，服务于狼厂'
+description:        "Record Beautiful Life（记录美好生活）"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -42,7 +42,7 @@ email:              626008255@qq.com
 #facebook:           username
 github-url:         wkqzxh
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          wkqzxh
 #xing:              username
 #instagram:          username
 #lastfm:            username
